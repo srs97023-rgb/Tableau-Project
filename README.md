@@ -86,8 +86,8 @@ The workbook has **15 worksheets** feeding one **Sales Performance Dashboard**:
 
 ## 📁 Repository Files
 
-- `Tableau_Project.twbx`: Tableau packaged workbook
-- `dashboard.png`: dashboard preview
+- `TABLEAU_ PROJECT_ADVENTURE WORKS.twbx`: Tableau packaged workbook
+- `Tableau_Dashboard_image.jpg`: dashboard preview
 
 ## 🧠 Skills Demonstrated
 
