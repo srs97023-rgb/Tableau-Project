@@ -97,8 +97,8 @@ Data blending (union and joins) • Calculated fields • Dashboard actions • 
 
 
 
-**🔗 Live Dashboard:** [View on Tableau Public](https://github.com/srs97023-rgb/Tableau-Project/blob/main/Tableau_Dashboard_image.jpg)
+**🔗 Live Dashboard:** [View on Tableau Public](https://github.com/srs97023-rgb/Tableau-Project/blob/main/TABLEAU_%20PROJECT_ADVENTURE%20WORKS.twbx)
 
-![Tableau Sales Performance Dashboard](YOUR_DASHBOARD_IMAGE_LINK)
+![Tableau Sales Performance Dashboard](https://github.com/srs97023-rgb/Tableau-Project/blob/main/Tableau_Dashboard_image.jpg)
 
 ---
